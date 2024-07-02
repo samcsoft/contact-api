@@ -1,0 +1,12 @@
+{
+  "name": "contact-api",
+  "version": "1.0.0",
+  "description": "This is a node/expressjs project. Contact are saved and can only be deleted and editted by the owners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
